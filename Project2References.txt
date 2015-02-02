@@ -1,0 +1,3 @@
+Project 2 references:
+* "Javascript & JQuery: Interactive front-end web development" by Jon Duckett
+* http://www.w3schools.com/
